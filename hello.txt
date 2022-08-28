@@ -6,8 +6,4 @@ hello git
 hello git
 hello git
 hello git
-hello git master test
-<<<<<<< HEAD
-=======
-hello git hot-fix test1
->>>>>>> hot-fix
+hello git mster test
